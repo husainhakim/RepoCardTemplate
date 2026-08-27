@@ -35,5 +35,5 @@ Cards can be customized directly in the browser and exported as crisp SVGs ready
 
 Clone the repository:
 ```bash
-git clone [https://github.com/husainhakim/repo-card-template.git](https://github.com/husainhakim/repo-card-template.git)
-cd repo-card-template
+git clone [https://github.com/husainhakim/RepoCardTemplate.git](https://github.com/husainhakim/RepoCardTemplate.git)
+cd RepoCardTemplate
